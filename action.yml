@@ -1,0 +1,8 @@
+names: 'Test custom action'
+description: 'Show Hello world'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  image: 'gift'
+  color: 'blue'
