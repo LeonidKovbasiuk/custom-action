@@ -1,3 +1,3 @@
-#!/bin/bash
-set -e
+#!/bin/sh
+
 echo "Hello, world!"
